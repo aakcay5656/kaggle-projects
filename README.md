@@ -1,4 +1,4 @@
-# 🧠 Kaggle Projects by Abdullah Akçay
+# 🧠 Kaggle Projects 
 
 Welcome to my collection of Kaggle notebooks and data science projects.  
 This repository includes my work on machine learning, data analysis, NLP, time series, and more — all developed as part of my learning journey and competitions on [Kaggle](https://www.kaggle.com/aakcay).
